@@ -1,5 +1,8 @@
 @import url(reset.css);
 
 .test ~ p {
-    color: aquamarine;
+    color: aquamarine; 
 }
+
+.test + p {
+    color: rgb(171, 113, 182);
