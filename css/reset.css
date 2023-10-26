@@ -38,4 +38,7 @@ mark {
 	background-color: transparent;
 	color: inherit;
 	font-weight: inherit;
-}  
+} 
+u {
+	text-decoration: none;
+}
