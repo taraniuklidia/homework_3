@@ -1,2 +1,45 @@
-@import url(reset.css);
+/* @import url(reset.css); */
+#initium {
+    color:#57494a
+}
+#first-chapter,
+#second-chapter,
+#third-chapter,
+#fourth-chapter,
+#fith-chapter,
+#first-chapter,
+#menu {
+    color:#65898e
+}
 
+#initium .main-italic-color {
+    color:#72929c
+}
+
+.main-italic-color + i {
+    color:#d19faf
+}
+
+.textblock {
+    color:#524968
+}
+
+mark {
+    color:#b34143
+}
+
+.paragraph + p {
+    color:#345fa5
+}
+
+.list * {
+    color:#584f6b
+}
+
+.list .list-text {
+    color:#799382
+}
+
+.italic-color.quote {
+    color:#ad4040
+}
