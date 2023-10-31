@@ -30,3 +30,15 @@ body {
 	line-height: 1;
 	height: 100%;
 }
+i, b {
+	font-style: normal;
+	font-weight: normal;
+}
+mark {
+	background-color: transparent;
+	color: inherit;
+	font-weight: inherit;
+} 
+u {
+	text-decoration: none;
+}
