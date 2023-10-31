@@ -1,4 +1,4 @@
-/* @import url(reset.css); */
+@import url(reset.css); 
 #initium {
     color:#57494a
 }
@@ -42,4 +42,44 @@ mark {
 
 .italic-color.quote {
     color:#ad4040
+}
+
+ol.navigation-list {
+    color:#2e4021
+}
+
+.bullet-point.chapter {
+    color:#9cb73d
+}
+
+.first-option .multicolor-one {
+    color:#76ac9f 
+}
+
+.first-option .multicolor-two {
+    color:#9cb73d
+}
+
+.first-option .multicolor-three {
+    color:#7c77ab
+}
+
+.first-option .page-link {
+    color:#f79a6f
+}
+
+.page-link + li {
+    color:#dd9bb3
+}
+
+.dim-words {
+    color:#4e555e
+}
+
+.light-text li {
+    color: #778899
+}
+
+.light-text .darker-text {
+    color:#626977
 }
